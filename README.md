@@ -11,6 +11,8 @@ Step 2 : Eda( Exploratory Data Analysis) * Data Preprocesssing * Data Understand
 
 Step 3 : Visualizations
 
-Step 4 : Model Building With Different Algorithms
+Step 4 : Feature Extraction- Wordcloud, Bag of Words, Term Frequency Inverse Document Frequency(TFIDF) Vectorizer
 
-Step 5 : Deployment
+Step 5 : Model Building With Different Algorithms
+
+Step 6 : Deployment
